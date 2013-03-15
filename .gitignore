@@ -17,6 +17,7 @@ local.properties
 .loadpath
 .sass-cache/
 sass-twitter-bootstrap-master/
+cloudbeat/
 
 # External tool builders
 .externalToolBuilders/
